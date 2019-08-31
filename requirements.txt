@@ -1,0 +1,7 @@
+
+
+# NER.py: 1
+deeppavlov == 0.5.1
+
+# NER.py: 3
+pymystem3 == 0.2.0

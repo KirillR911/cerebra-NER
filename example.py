@@ -1,4 +1,4 @@
-from NER import NER
+from cerebraner.NER import NER
 import warnings
 import os
 ext = NER()
