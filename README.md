@@ -22,17 +22,17 @@ ner = NER()
 ### Extract named entities
 
 ```python
-result = NER.extract(input)
+result = ner.extract(input)
 ```
 
 ### Pars extraction result
 
 ```python
-parsed = NER.pars(result)
+parsed = ner.pars(result)
 ```
 
 ### Save result to .json file
 
 ```python
-ext.to_json(parsed)
+ner.to_json(parsed)
 ```
