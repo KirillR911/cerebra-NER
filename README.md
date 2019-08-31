@@ -4,9 +4,9 @@
 
 ## Requirements:
 
-1. DeepPavlov [link]([https://github.com/deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov)
+1. DeepPavlov [link](https://github.com/deepmipt/DeepPavlov)
 
-2. Mystem [link]([https://github.com/nlpub/pymystem3](https://github.com/nlpub/pymystem3)
+2. Mystem [link](https://github.com/nlpub/pymystem3)
 
 
 
